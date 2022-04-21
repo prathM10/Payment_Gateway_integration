@@ -1,2 +1,3 @@
-# Payment_Gateway_integration
-online donation website
+# Payment-Gateway-Integration
+
+This Website is made for dummy online donation
